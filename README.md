@@ -10,6 +10,7 @@ var conn = new WebSocket('wss://ws.example.fr');
 Dans commande : php /home/xxxxxx/www/chemin/vers/cmd.php
 CMD.PHP doit lancer le serveur sur le port 8100 !
 et voilà, tout simplement :D
+Image de ma config de site alwaysdata : https://i.ibb.co/CwhNs5v/image.png
 
 Sujet qui m'on aider :o 
 https://forum.alwaysdata.com/viewtopic.php?id=5023
