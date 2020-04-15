@@ -8,5 +8,8 @@ dans adresse mettez par exemple : ws.example.fr, cette adresse doit etre utilis√
 var conn = new WebSocket('wss://ws.example.fr');
 
 Dans commande : php /home/xxxxxx/www/chemin/vers/cmd.php
-
+CMD.PHP doit lancer le serveur sur le port 8100 !
 et voil√†, tout simplement :D
+
+Sujet qui m'on aider :o 
+https://forum.alwaysdata.com/viewtopic.php?id=5023
